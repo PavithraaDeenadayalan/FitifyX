@@ -1,0 +1,204 @@
+[
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef3",
+    "userId": "64a1b2c3d4e5f6789abcdef1",
+    "gender": "female",
+    "dob": "1988-11-22",
+    "location": "Bangalore, Karnataka",
+    "fitnessLevel": "advanced",
+    "totalPoints": 3850,
+    "bio": "Tech professional by day, CrossFit athlete by evening. Always pushing limits!",
+    "trackerIntegration": {
+      "provider": "Garmin",
+      "accountId": "GR987654321"
+    },
+    "joinedChallenges": [
+      "64a1b2c3d4e5f6789abcdef8",
+      "64a1b2c3d4e5f6789abcdef9",
+      "64a1b2c3d4e5f6789abcdefa"
+    ],
+    "createdAt": "2025-05-20T14:25:00Z",
+    "updatedAt": "2025-07-22T09:15:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef4",
+    "userId": "64a1b2c3d4e5f6789abcdef2",
+    "gender": "male",
+    "dob": "1995-07-08",
+    "location": "Mumbai, Maharashtra",
+    "fitnessLevel": "beginner",
+    "totalPoints": 890,
+    "bio": "Just started my fitness journey. Marathon is my goal for next year!",
+    "trackerIntegration": {
+      "provider": "Apple Watch",
+      "accountId": "AW456789123"
+    },
+    "joinedChallenges": [
+      "64a1b2c3d4e5f6789abcdef8"
+    ],
+    "createdAt": "2025-07-02T09:18:00Z",
+    "updatedAt": "2025-07-23T16:30:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef5",
+    "userId": "64a1b2c3d4e5f6789abcdef3",
+    "gender": "female",
+    "dob": "1990-12-03",
+    "location": "Delhi, Delhi",
+    "fitnessLevel": "expert",
+    "totalPoints": 5670,
+    "bio": "Certified nutritionist and yoga instructor. Helping others find balance in life.",
+    "trackerIntegration": {
+      "provider": "Samsung Health",
+      "accountId": "SH789123456"
+    },
+    "joinedChallenges": [
+      "64a1b2c3d4e5f6789abcdef9",
+      "64a1b2c3d4e5f6789abcdefa",
+      "64a1b2c3d4e5f6789abcdefb"
+    ],
+    "createdAt": "2025-04-18T11:48:00Z",
+    "updatedAt": "2025-07-24T08:45:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef6",
+    "userId": "64a1b2c3d4e5f6789abcdef4",
+    "gender": "male",
+    "dob": "1987-05-19",
+    "location": "Hyderabad, Telangana",
+    "fitnessLevel": "intermediate",
+    "totalPoints": 3120,
+    "bio": "Gaming enthusiast turned fitness lover. Proving nerds can be strong too!",
+    "trackerIntegration": {
+      "provider": "Fitbit",
+      "accountId": "FB321654987"
+    },
+    "joinedChallenges": [
+      "64a1b2c3d4e5f6789abcdef8",
+      "64a1b2c3d4e5f6789abcdefa"
+    ],
+    "createdAt": "2025-06-30T16:23:00Z",
+    "updatedAt": "2025-07-21T11:20:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef7",
+    "userId": "64a1b2c3d4e5f6789abcdef5",
+    "gender": "female",
+    "dob": "1993-09-14",
+    "location": "Pune, Maharashtra",
+    "fitnessLevel": "intermediate",
+    "totalPoints": 2780,
+    "bio": "Artist with a passion for dance fitness. Movement is my meditation.",
+    "trackerIntegration": {
+      "provider": "Google Fit",
+      "accountId": "GF654321789"
+    },
+    "joinedChallenges": [
+      "64a1b2c3d4e5f6789abcdef9"
+    ],
+    "createdAt": "2025-03-12T07:36:00Z",
+    "updatedAt": "2025-07-19T13:55:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef8",
+    "userId": "64a1b2c3d4e5f6789abcdef6",
+    "gender": "non-binary",
+    "dob": "1991-01-27",
+    "location": "Kochi, Kerala",
+    "fitnessLevel": "advanced",
+    "totalPoints": 4320,
+    "bio": "Full-stack developer and rock climbing enthusiast. Code by day, climb by night!",
+    "trackerIntegration": {
+      "provider": "Polar",
+      "accountId": "PL987123456"
+    },
+    "joinedChallenges": [
+      "64a1b2c3d4e5f6789abcdef8",
+      "64a1b2c3d4e5f6789abcdef9",
+      "64a1b2c3d4e5f6789abcdefa",
+      "64a1b2c3d4e5f6789abcdefb"
+    ],
+    "createdAt": "2025-07-10T12:11:00Z",
+    "updatedAt": "2025-07-24T07:30:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef9",
+    "userId": "64a1b2c3d4e5f6789abcdef7",
+    "gender": "female",
+    "dob": "1985-04-30",
+    "location": "Jaipur, Rajasthan",
+    "fitnessLevel": "intermediate",
+    "totalPoints": 3450,
+    "bio": "Travel blogger who loves hiking. Exploring the world one trail at a time!",
+    "trackerIntegration": {
+      "provider": "Suunto",
+      "accountId": "SU123987654"
+    },
+    "joinedChallenges": [
+      "64a1b2c3d4e5f6789abcdef9",
+      "64a1b2c3d4e5f6789abcdefa"
+    ],
+    "createdAt": "2025-05-05T19:58:00Z",
+    "updatedAt": "2025-07-23T14:12:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdefa",
+    "userId": "64a1b2c3d4e5f6789abcdef8",
+    "gender": "male",
+    "dob": "1994-08-11",
+    "location": "Ahmedabad, Gujarat",
+    "fitnessLevel": "beginner",
+    "totalPoints": 1240,
+    "bio": "Music producer discovering the rhythm of fitness. Beats and burpees!",
+    "trackerIntegration": {
+      "provider": "Mi Fitness",
+      "accountId": "MI456123789"
+    },
+    "joinedChallenges": [
+      "64a1b2c3d4e5f6789abcdef8"
+    ],
+    "createdAt": "2025-06-08T13:45:00Z",
+    "updatedAt": "2025-07-20T10:25:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdefb",
+    "userId": "64a1b2c3d4e5f6789abcdef9",
+    "gender": "female",
+    "dob": "1989-10-25",
+    "location": "Kolkata, West Bengal",
+    "fitnessLevel": "advanced",
+    "totalPoints": 4890,
+    "bio": "Yoga instructor and mindfulness coach. Strength comes from within.",
+    "trackerIntegration": {
+      "provider": "Fitbit",
+      "accountId": "FB789456123"
+    },
+    "joinedChallenges": [
+      "64a1b2c3d4e5f6789abcdef9",
+      "64a1b2c3d4e5f6789abcdefa",
+      "64a1b2c3d4e5f6789abcdefb"
+    ],
+    "createdAt": "2025-04-25T10:20:00Z",
+    "updatedAt": "2025-07-24T06:18:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdefc",
+    "userId": "64a1b2c3d4e5f6789abcdefa",
+    "gender": "male",
+    "dob": "1996-06-17",
+    "location": "Coimbatore, Tamil Nadu",
+    "fitnessLevel": "beginner",
+    "totalPoints": 650,
+    "bio": "Photography enthusiast learning to capture motion through sports and fitness.",
+    "trackerIntegration": {
+      "provider": "Strava",
+      "accountId": "ST321789456"
+    },
+    "joinedChallenges": [
+      "64a1b2c3d4e5f6789abcdef8",
+      "64a1b2c3d4e5f6789abcdef9"
+    ],
+    "createdAt": "2025-07-15T15:32:00Z",
+    "updatedAt": "2025-07-24T12:40:00Z"
+  }
+]

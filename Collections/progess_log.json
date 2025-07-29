@@ -1,0 +1,222 @@
+[
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef1"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde01"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcdef8"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 12847,
+    "caloriesBurned": 485,
+    "distance": 9.2,
+    "workoutsCompleted": 1,
+    "createdAt": {"$date": "2025-07-22T23:45:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef2"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde02"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcdef9"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 8925,
+    "caloriesBurned": 342,
+    "distance": 6.7,
+    "workoutsCompleted": 0,
+    "createdAt": {"$date": "2025-07-22T22:15:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef3"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde03"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcdefa"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 15632,
+    "caloriesBurned": 587,
+    "distance": 11.8,
+    "workoutsCompleted": 2,
+    "createdAt": {"$date": "2025-07-22T21:30:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef4"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde04"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcdefb"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 6743,
+    "caloriesBurned": 254,
+    "distance": 4.9,
+    "workoutsCompleted": 1,
+    "createdAt": {"$date": "2025-07-22T20:45:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef5"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde05"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcdefc"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 10284,
+    "caloriesBurned": 398,
+    "distance": 7.6,
+    "workoutsCompleted": 1,
+    "createdAt": {"$date": "2025-07-22T19:20:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef6"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde06"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcdefd"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 14567,
+    "caloriesBurned": 542,
+    "distance": 10.3,
+    "workoutsCompleted": 3,
+    "createdAt": {"$date": "2025-07-22T18:50:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef7"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde07"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcdefe"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 5892,
+    "caloriesBurned": 223,
+    "distance": 4.1,
+    "workoutsCompleted": 0,
+    "createdAt": {"$date": "2025-07-22T17:35:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef8"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde08"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcdeff"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 11293,
+    "caloriesBurned": 435,
+    "distance": 8.4,
+    "workoutsCompleted": 1,
+    "createdAt": {"$date": "2025-07-22T16:25:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef9"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde09"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde00"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 9876,
+    "caloriesBurned": 372,
+    "distance": 7.2,
+    "workoutsCompleted": 2,
+    "createdAt": {"$date": "2025-07-22T15:40:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdefa"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde0a"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde01"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 7654,
+    "caloriesBurned": 289,
+    "distance": 5.6,
+    "workoutsCompleted": 1,
+    "createdAt": {"$date": "2025-07-22T14:55:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdefb"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde0b"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde02"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 13241,
+    "caloriesBurned": 498,
+    "distance": 9.8,
+    "workoutsCompleted": 2,
+    "createdAt": {"$date": "2025-07-22T13:20:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdefc"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde0c"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde03"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 4532,
+    "caloriesBurned": 172,
+    "distance": 3.2,
+    "workoutsCompleted": 0,
+    "createdAt": {"$date": "2025-07-22T12:10:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdefd"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde0d"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde04"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 16789,
+    "caloriesBurned": 623,
+    "distance": 12.5,
+    "workoutsCompleted": 3,
+    "createdAt": {"$date": "2025-07-22T11:45:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdefe"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde0e"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde05"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 8147,
+    "caloriesBurned": 308,
+    "distance": 6.1,
+    "workoutsCompleted": 1,
+    "createdAt": {"$date": "2025-07-22T10:30:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdeff"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde0f"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde06"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 12098,
+    "caloriesBurned": 456,
+    "distance": 8.9,
+    "workoutsCompleted": 2,
+    "createdAt": {"$date": "2025-07-22T09:15:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcde00"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde10"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde07"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 9463,
+    "caloriesBurned": 358,
+    "distance": 7.0,
+    "workoutsCompleted": 1,
+    "createdAt": {"$date": "2025-07-22T08:40:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcde01"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde11"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde08"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 6821,
+    "caloriesBurned": 257,
+    "distance": 5.0,
+    "workoutsCompleted": 0,
+    "createdAt": {"$date": "2025-07-22T07:25:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcde02"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde12"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde09"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 15432,
+    "caloriesBurned": 578,
+    "distance": 11.4,
+    "workoutsCompleted": 4,
+    "createdAt": {"$date": "2025-07-22T06:50:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcde03"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde13"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde0a"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 3987,
+    "caloriesBurned": 151,
+    "distance": 2.8,
+    "workoutsCompleted": 0,
+    "createdAt": {"$date": "2025-07-22T06:10:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcde04"},
+    "userId": {"$oid": "64a1b2c3d4e5f6789abcde14"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde0b"},
+    "date": {"$date": "2025-07-22T00:00:00Z"},
+    "steps": 11765,
+    "caloriesBurned": 443,
+    "distance": 8.7,
+    "workoutsCompleted": 2,
+    "createdAt": {"$date": "2025-07-22T05:35:00Z"}
+  }
+]

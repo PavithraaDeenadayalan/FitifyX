@@ -1,0 +1,293 @@
+[
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdefE"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcdef8"},
+    "name": "Chennai Steppers",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcdef0"},
+      {"$oid": "64a1b2c3d4e5f6789abcdef4"},
+      {"$oid": "64a1b2c3d4e5f6789abcdef6"}
+    ],
+    "totalSteps": 756300,
+    "totalCalories": 18907,
+    "createdAt": {"$date": "2025-07-02T10:00:00Z"},
+    "updatedAt": {"$date": "2025-07-22T20:15:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef1"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcdef9"},
+    "name": "Mumbai Marathoners",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde01"},
+      {"$oid": "64a1b2c3d4e5f6789abcde02"},
+      {"$oid": "64a1b2c3d4e5f6789abcde03"},
+      {"$oid": "64a1b2c3d4e5f6789abcde04"}
+    ],
+    "totalSteps": 892450,
+    "totalCalories": 22156,
+    "createdAt": {"$date": "2025-07-01T08:30:00Z"},
+    "updatedAt": {"$date": "2025-07-22T19:45:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef2"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcdefa"},
+    "name": "Delhi Dashers",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde05"},
+      {"$oid": "64a1b2c3d4e5f6789abcde06"}
+    ],
+    "totalSteps": 458920,
+    "totalCalories": 11467,
+    "createdAt": {"$date": "2025-07-03T14:20:00Z"},
+    "updatedAt": {"$date": "2025-07-22T18:30:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef3"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcdefb"},
+    "name": "Bangalore Burners",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde07"},
+      {"$oid": "64a1b2c3d4e5f6789abcde08"},
+      {"$oid": "64a1b2c3d4e5f6789abcde09"},
+      {"$oid": "64a1b2c3d4e5f6789abcde0a"},
+      {"$oid": "64a1b2c3d4e5f6789abcde0b"}
+    ],
+    "totalSteps": 1235670,
+    "totalCalories": 30789,
+    "createdAt": {"$date": "2025-06-28T12:15:00Z"},
+    "updatedAt": {"$date": "2025-07-22T21:10:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef4"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcdefc"},
+    "name": "Hyderabad Heroes",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde0c"},
+      {"$oid": "64a1b2c3d4e5f6789abcde0d"},
+      {"$oid": "64a1b2c3d4e5f6789abcde0e"}
+    ],
+    "totalSteps": 689340,
+    "totalCalories": 17234,
+    "createdAt": {"$date": "2025-07-05T09:45:00Z"},
+    "updatedAt": {"$date": "2025-07-22T17:25:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef5"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcdefd"},
+    "name": "Pune Power Walkers",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde0f"},
+      {"$oid": "64a1b2c3d4e5f6789abcde10"},
+      {"$oid": "64a1b2c3d4e5f6789abcde11"},
+      {"$oid": "64a1b2c3d4e5f6789abcde12"}
+    ],
+    "totalSteps": 934580,
+    "totalCalories": 23365,
+    "createdAt": {"$date": "2025-07-04T16:30:00Z"},
+    "updatedAt": {"$date": "2025-07-22T16:50:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef6"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcdefe"},
+    "name": "Kolkata Crushers",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde13"},
+      {"$oid": "64a1b2c3d4e5f6789abcde14"}
+    ],
+    "totalSteps": 387620,
+    "totalCalories": 9691,
+    "createdAt": {"$date": "2025-07-06T11:20:00Z"},
+    "updatedAt": {"$date": "2025-07-22T15:35:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef7"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcdeff"},
+    "name": "Ahmedabad Athletes",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde15"},
+      {"$oid": "64a1b2c3d4e5f6789abcde16"},
+      {"$oid": "64a1b2c3d4e5f6789abcde17"}
+    ],
+    "totalSteps": 672890,
+    "totalCalories": 16823,
+    "createdAt": {"$date": "2025-07-07T13:40:00Z"},
+    "updatedAt": {"$date": "2025-07-22T14:20:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef8"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde00"},
+    "name": "Jaipur Joggers",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde18"},
+      {"$oid": "64a1b2c3d4e5f6789abcde19"},
+      {"$oid": "64a1b2c3d4e5f6789abcde1a"},
+      {"$oid": "64a1b2c3d4e5f6789abcde1b"},
+      {"$oid": "64a1b2c3d4e5f6789abcde1c"},
+      {"$oid": "64a1b2c3d4e5f6789abcde1d"}
+    ],
+    "totalSteps": 1456780,
+    "totalCalories": 36420,
+    "createdAt": {"$date": "2025-06-30T07:15:00Z"},
+    "updatedAt": {"$date": "2025-07-22T22:40:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdef9"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde01"},
+    "name": "Kochi Kickers",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde1e"},
+      {"$oid": "64a1b2c3d4e5f6789abcde1f"}
+    ],
+    "totalSteps": 423560,
+    "totalCalories": 10589,
+    "createdAt": {"$date": "2025-07-08T15:25:00Z"},
+    "updatedAt": {"$date": "2025-07-22T13:15:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdefa"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde02"},
+    "name": "Chandigarh Champions",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde20"},
+      {"$oid": "64a1b2c3d4e5f6789abcde21"},
+      {"$oid": "64a1b2c3d4e5f6789abcde22"}
+    ],
+    "totalSteps": 589340,
+    "totalCalories": 14734,
+    "createdAt": {"$date": "2025-07-09T10:50:00Z"},
+    "updatedAt": {"$date": "2025-07-22T12:25:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdefb"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde03"},
+    "name": "Lucknow Lightning",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde23"},
+      {"$oid": "64a1b2c3d4e5f6789abcde24"},
+      {"$oid": "64a1b2c3d4e5f6789abcde25"},
+      {"$oid": "64a1b2c3d4e5f6789abcde26"}
+    ],
+    "totalSteps": 823470,
+    "totalCalories": 20587,
+    "createdAt": {"$date": "2025-07-10T08:35:00Z"},
+    "updatedAt": {"$date": "2025-07-22T11:40:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdefc"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde04"},
+    "name": "Indore Infinity",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde27"},
+      {"$oid": "64a1b2c3d4e5f6789abcde28"}
+    ],
+    "totalSteps": 345680,
+    "totalCalories": 8642,
+    "createdAt": {"$date": "2025-07-11T14:10:00Z"},
+    "updatedAt": {"$date": "2025-07-22T10:55:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdefd"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde05"},
+    "name": "Bhopal Blazers",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde29"},
+      {"$oid": "64a1b2c3d4e5f6789abcde2a"},
+      {"$oid": "64a1b2c3d4e5f6789abcde2b"},
+      {"$oid": "64a1b2c3d4e5f6789abcde2c"},
+      {"$oid": "64a1b2c3d4e5f6789abcde2d"}
+    ],
+    "totalSteps": 1123450,
+    "totalCalories": 28086,
+    "createdAt": {"$date": "2025-06-29T12:45:00Z"},
+    "updatedAt": {"$date": "2025-07-22T09:30:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdefe"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde06"},
+    "name": "Nagpur Navigators",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde2e"},
+      {"$oid": "64a1b2c3d4e5f6789abcde2f"},
+      {"$oid": "64a1b2c3d4e5f6789abcde30"}
+    ],
+    "totalSteps": 567890,
+    "totalCalories": 14197,
+    "createdAt": {"$date": "2025-07-12T16:20:00Z"},
+    "updatedAt": {"$date": "2025-07-22T08:45:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcdeff"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde07"},
+    "name": "Surat Sprinters",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde31"},
+      {"$oid": "64a1b2c3d4e5f6789abcde32"},
+      {"$oid": "64a1b2c3d4e5f6789abcde33"},
+      {"$oid": "64a1b2c3d4e5f6789abcde34"}
+    ],
+    "totalSteps": 789650,
+    "totalCalories": 19741,
+    "createdAt": {"$date": "2025-07-13T09:15:00Z"},
+    "updatedAt": {"$date": "2025-07-22T07:20:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcde00"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde08"},
+    "name": "Coimbatore Challengers",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde35"},
+      {"$oid": "64a1b2c3d4e5f6789abcde36"}
+    ],
+    "totalSteps": 412570,
+    "totalCalories": 10314,
+    "createdAt": {"$date": "2025-07-14T11:30:00Z"},
+    "updatedAt": {"$date": "2025-07-22T06:35:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcde01"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde09"},
+    "name": "Visakhapatnam Victors",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde37"},
+      {"$oid": "64a1b2c3d4e5f6789abcde38"},
+      {"$oid": "64a1b2c3d4e5f6789abcde39"},
+      {"$oid": "64a1b2c3d4e5f6789abcde3a"},
+      {"$oid": "64a1b2c3d4e5f6789abcde3b"},
+      {"$oid": "64a1b2c3d4e5f6789abcde3c"},
+      {"$oid": "64a1b2c3d4e5f6789abcde3d"}
+    ],
+    "totalSteps": 1678940,
+    "totalCalories": 41973,
+    "createdAt": {"$date": "2025-06-27T06:00:00Z"},
+    "updatedAt": {"$date": "2025-07-22T23:50:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcde02"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde0a"},
+    "name": "Madurai Mavericks",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde3e"},
+      {"$oid": "64a1b2c3d4e5f6789abcde3f"},
+      {"$oid": "64a1b2c3d4e5f6789abcde40"}
+    ],
+    "totalSteps": 634820,
+    "totalCalories": 15871,
+    "createdAt": {"$date": "2025-07-15T13:25:00Z"},
+    "updatedAt": {"$date": "2025-07-22T05:10:00Z"}
+  },
+  {
+    "_id": {"$oid": "64a1b2c3d4e5f6789abcde03"},
+    "challengeId": {"$oid": "64a1b2c3d4e5f6789abcde0b"},
+    "name": "Thiruvananthapuram Titans",
+    "members": [
+      {"$oid": "64a1b2c3d4e5f6789abcde41"},
+      {"$oid": "64a1b2c3d4e5f6789abcde42"},
+      {"$oid": "64a1b2c3d4e5f6789abcde43"},
+      {"$oid": "64a1b2c3d4e5f6789abcde44"}
+    ],
+    "totalSteps": 856730,
+    "totalCalories": 21418,
+    "createdAt": {"$date": "2025-07-16T17:40:00Z"},
+    "updatedAt": {"$date": "2025-07-22T04:25:00Z"}
+  }
+]

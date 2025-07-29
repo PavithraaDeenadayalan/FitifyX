@@ -1,0 +1,284 @@
+[
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef11",
+    "title": "Step Master Badge",
+    "type": "badge",
+    "pointsRequired": 1000,
+    "imageURL": "https://example.com/badges/step_master.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef0",
+      "64a1b2c3d4e5f6789abcdef1"
+    ],
+    "createdAt": "2025-06-01T12:00:00Z",
+    "updatedAt": "2025-07-20T14:30:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef12",
+    "title": "Calorie Crusher",
+    "type": "achievement",
+    "pointsRequired": 750,
+    "imageURL": "https://example.com/badges/calorie_crusher.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef2",
+      "64a1b2c3d4e5f6789abcdef3",
+      "64a1b2c3d4e5f6789abcdef7"
+    ],
+    "createdAt": "2025-05-15T10:30:00Z",
+    "updatedAt": "2025-07-22T16:45:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef13",
+    "title": "Sleep Champion",
+    "type": "badge",
+    "pointsRequired": 500,
+    "imageURL": "https://example.com/badges/sleep_champion.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef4",
+      "64a1b2c3d4e5f6789abcdef5",
+      "64a1b2c3d4e5f6789abcdef6",
+      "64a1b2c3d4e5f6789abcdef8"
+    ],
+    "createdAt": "2025-04-20T08:15:00Z",
+    "updatedAt": "2025-07-23T11:20:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef14",
+    "title": "Marathon Walker",
+    "type": "milestone",
+    "pointsRequired": 2000,
+    "imageURL": "https://example.com/badges/marathon_walker.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef9"
+    ],
+    "createdAt": "2025-03-10T14:00:00Z",
+    "updatedAt": "2025-07-21T19:30:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef15",
+    "title": "Early Bird",
+    "type": "badge",
+    "pointsRequired": 300,
+    "imageURL": "https://example.com/badges/early_bird.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef10",
+      "64a1b2c3d4e5f6789abcdef11",
+      "64a1b2c3d4e5f6789abcdef12",
+      "64a1b2c3d4e5f6789abcdef13",
+      "64a1b2c3d4e5f6789abcdef14"
+    ],
+    "createdAt": "2025-06-05T06:00:00Z",
+    "updatedAt": "2025-07-24T07:15:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef16",
+    "title": "Heart Rate Hero",
+    "type": "achievement",
+    "pointsRequired": 800,
+    "imageURL": "https://example.com/badges/heart_rate_hero.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef15",
+      "64a1b2c3d4e5f6789abcdef16"
+    ],
+    "createdAt": "2025-05-28T13:45:00Z",
+    "updatedAt": "2025-07-23T20:10:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef17",
+    "title": "Consistency King",
+    "type": "streak",
+    "pointsRequired": 1500,
+    "imageURL": "https://example.com/badges/consistency_king.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef17",
+      "64a1b2c3d4e5f6789abcdef18",
+      "64a1b2c3d4e5f6789abcdef19"
+    ],
+    "createdAt": "2025-04-12T09:30:00Z",
+    "updatedAt": "2025-07-22T15:45:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef18",
+    "title": "Hydration Master",
+    "type": "badge",
+    "pointsRequired": 400,
+    "imageURL": "https://example.com/badges/hydration_master.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef20",
+      "64a1b2c3d4e5f6789abcdef21",
+      "64a1b2c3d4e5f6789abcdef22",
+      "64a1b2c3d4e5f6789abcdef23",
+      "64a1b2c3d4e5f6789abcdef24",
+      "64a1b2c3d4e5f6789abcdef25"
+    ],
+    "createdAt": "2025-06-18T11:20:00Z",
+    "updatedAt": "2025-07-24T09:30:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef19",
+    "title": "Weekend Warrior",
+    "type": "achievement",
+    "pointsRequired": 600,
+    "imageURL": "https://example.com/badges/weekend_warrior.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef26",
+      "64a1b2c3d4e5f6789abcdef27"
+    ],
+    "createdAt": "2025-05-05T16:10:00Z",
+    "updatedAt": "2025-07-21T12:25:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef20",
+    "title": "Iron Will",
+    "type": "milestone",
+    "pointsRequired": 2500,
+    "imageURL": "https://example.com/badges/iron_will.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef28"
+    ],
+    "createdAt": "2025-02-15T10:00:00Z",
+    "updatedAt": "2025-07-20T18:40:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef21",
+    "title": "Social Butterfly",
+    "type": "badge",
+    "pointsRequired": 250,
+    "imageURL": "https://example.com/badges/social_butterfly.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef29",
+      "64a1b2c3d4e5f6789abcdef30",
+      "64a1b2c3d4e5f6789abcdef31",
+      "64a1b2c3d4e5f6789abcdef32",
+      "64a1b2c3d4e5f6789abcdef33",
+      "64a1b2c3d4e5f6789abcdef34",
+      "64a1b2c3d4e5f6789abcdef35"
+    ],
+    "createdAt": "2025-07-01T14:30:00Z",
+    "updatedAt": "2025-07-24T10:15:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef22",
+    "title": "Meditation Guru",
+    "type": "achievement",
+    "pointsRequired": 700,
+    "imageURL": "https://example.com/badges/meditation_guru.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef36",
+      "64a1b2c3d4e5f6789abcdef37",
+      "64a1b2c3d4e5f6789abcdef38"
+    ],
+    "createdAt": "2025-04-25T12:45:00Z",
+    "updatedAt": "2025-07-23T14:20:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef23",
+    "title": "Speed Demon",
+    "type": "badge",
+    "pointsRequired": 900,
+    "imageURL": "https://example.com/badges/speed_demon.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef39",
+      "64a1b2c3d4e5f6789abcdef40"
+    ],
+    "createdAt": "2025-03-20T15:30:00Z",
+    "updatedAt": "2025-07-22T17:50:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef24",
+    "title": "Goal Crusher",
+    "type": "milestone",
+    "pointsRequired": 1800,
+    "imageURL": "https://example.com/badges/goal_crusher.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef41",
+      "64a1b2c3d4e5f6789abcdef42",
+      "64a1b2c3d4e5f6789abcdef43"
+    ],
+    "createdAt": "2025-01-30T09:15:00Z",
+    "updatedAt": "2025-07-24T13:40:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef25",
+    "title": "Fitness Fanatic",
+    "type": "streak",
+    "pointsRequired": 3000,
+    "imageURL": "https://example.com/badges/fitness_fanatic.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef44"
+    ],
+    "createdAt": "2025-01-15T11:00:00Z",
+    "updatedAt": "2025-07-23T16:25:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef26",
+    "title": "Night Owl",
+    "type": "badge",
+    "pointsRequired": 350,
+    "imageURL": "https://example.com/badges/night_owl.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef45",
+      "64a1b2c3d4e5f6789abcdef46",
+      "64a1b2c3d4e5f6789abcdef47",
+      "64a1b2c3d4e5f6789abcdef48"
+    ],
+    "createdAt": "2025-06-12T22:30:00Z",
+    "updatedAt": "2025-07-24T21:10:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef27",
+    "title": "Team Player",
+    "type": "achievement",
+    "pointsRequired": 550,
+    "imageURL": "https://example.com/badges/team_player.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef49",
+      "64a1b2c3d4e5f6789abcdef50",
+      "64a1b2c3d4e5f6789abcdef51",
+      "64a1b2c3d4e5f6789abcdef52",
+      "64a1b2c3d4e5f6789abcdef53"
+    ],
+    "createdAt": "2025-05-08T13:20:00Z",
+    "updatedAt": "2025-07-23T19:45:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef28",
+    "title": "Transformation Legend",
+    "type": "milestone",
+    "pointsRequired": 5000,
+    "imageURL": "https://example.com/badges/transformation_legend.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef54"
+    ],
+    "createdAt": "2025-01-01T00:00:00Z",
+    "updatedAt": "2025-07-24T08:30:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef29",
+    "title": "Daily Devotee",
+    "type": "streak",
+    "pointsRequired": 1200,
+    "imageURL": "https://example.com/badges/daily_devotee.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef55",
+      "64a1b2c3d4e5f6789abcdef56",
+      "64a1b2c3d4e5f6789abcdef57",
+      "64a1b2c3d4e5f6789abcdef58"
+    ],
+    "createdAt": "2025-04-01T07:45:00Z",
+    "updatedAt": "2025-07-22T20:15:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef30",
+    "title": "Challenge Champion",
+    "type": "achievement",
+    "pointsRequired": 1100,
+    "imageURL": "https://example.com/badges/challenge_champion.png",
+    "earnedBy": [
+      "64a1b2c3d4e5f6789abcdef59",
+      "64a1b2c3d4e5f6789abcdef60",
+      "64a1b2c3d4e5f6789abcdef61"
+    ],
+    "createdAt": "2025-02-28T16:00:00Z",
+    "updatedAt": "2025-07-24T12:50:00Z"
+  }
+]

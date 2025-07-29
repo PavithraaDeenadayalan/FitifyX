@@ -1,0 +1,196 @@
+[
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef8",
+    "creatorId": "64a1b2c3d4e5f6789abcdef1",
+    "title": "30-Day Summer Step Challenge",
+    "description": "Walk 10,000 steps daily for 30 days. Let's build healthy habits together!",
+    "category": "walking",
+    "goalType": "steps",
+    "goalValue": 10000,
+    "startDate": "2025-07-01T00:00:00Z",
+    "endDate": "2025-07-30T23:59:59Z",
+    "visibility": "public",
+    "participants": [
+      "64a1b2c3d4e5f6789abcdef0",
+      "64a1b2c3d4e5f6789abcdef1",
+      "64a1b2c3d4e5f6789abcdef4"
+    ],
+    "createdAt": "2025-06-25T12:00:00Z",
+    "updatedAt": "2025-07-20T16:30:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef9",
+    "creatorId": "64a1b2c3d4e5f6789abcdef3",
+    "title": "Push-Up Power Month",
+    "description": "Build upper body strength with daily push-up goals. Start with 20 and increase by 5 every week!",
+    "category": "strength",
+    "goalType": "reps",
+    "goalValue": 50,
+    "startDate": "2025-08-01T00:00:00Z",
+    "endDate": "2025-08-31T23:59:59Z",
+    "visibility": "public",
+    "participants": [
+      "64a1b2c3d4e5f6789abcdef1",
+      "64a1b2c3d4e5f6789abcdef3",
+      "64a1b2c3d4e5f6789abcdef4",
+      "64a1b2c3d4e5f6789abcdef6"
+    ],
+    "createdAt": "2025-07-15T09:30:00Z",
+    "updatedAt": "2025-07-23T14:45:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdefa",
+    "creatorId": "64a1b2c3d4e5f6789abcdef6",
+    "title": "Meditation Mindfulness Week",
+    "description": "Dedicate 20 minutes daily to meditation and mindfulness practices. Inner peace challenge!",
+    "category": "wellness",
+    "goalType": "minutes",
+    "goalValue": 20,
+    "startDate": "2025-07-15T00:00:00Z",
+    "endDate": "2025-07-21T23:59:59Z",
+    "visibility": "public",
+    "participants": [
+      "64a1b2c3d4e5f6789abcdef3",
+      "64a1b2c3d4e5f6789abcdef5",
+      "64a1b2c3d4e5f6789abcdef6",
+      "64a1b2c3d4e5f6789abcdef7",
+      "64a1b2c3d4e5f6789abcdef9"
+    ],
+    "createdAt": "2025-07-08T16:20:00Z",
+    "updatedAt": "2025-07-21T20:00:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdefb",
+    "creatorId": "64a1b2c3d4e5f6789abcdef2",
+    "title": "5K Running Preparation",
+    "description": "Train for a 5K run over 6 weeks. Perfect for beginners wanting to start their running journey!",
+    "category": "running",
+    "goalType": "distance",
+    "goalValue": 5000,
+    "startDate": "2025-06-01T00:00:00Z",
+    "endDate": "2025-07-12T23:59:59Z",
+    "visibility": "public",
+    "participants": [
+      "64a1b2c3d4e5f6789abcdef0",
+      "64a1b2c3d4e5f6789abcdef2",
+      "64a1b2c3d4e5f6789abcdef8"
+    ],
+    "createdAt": "2025-05-20T11:15:00Z",
+    "updatedAt": "2025-07-12T18:30:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdefc",
+    "creatorId": "64a1b2c3d4e5f6789abcdef9",
+    "title": "Yoga Flow Challenge",
+    "description": "Practice yoga for 45 minutes daily. Improve flexibility, strength, and find your zen!",
+    "category": "yoga",
+    "goalType": "minutes",
+    "goalValue": 45,
+    "startDate": "2025-07-20T00:00:00Z",
+    "endDate": "2025-08-19T23:59:59Z",
+    "visibility": "public",
+    "participants": [
+      "64a1b2c3d4e5f6789abcdef3",
+      "64a1b2c3d4e5f6789abcdef5",
+      "64a1b2c3d4e5f6789abcdef9"
+    ],
+    "createdAt": "2025-07-10T13:45:00Z",
+    "updatedAt": "2025-07-24T09:20:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdefd",
+    "creatorId": "64a1b2c3d4e5f6789abcdef4",
+    "title": "Cycling Adventure Club",
+    "description": "Cycle 25km weekly and explore new routes. Share your scenic captures with the group!",
+    "category": "cycling",
+    "goalType": "distance",
+    "goalValue": 25000,
+    "startDate": "2025-06-15T00:00:00Z",
+    "endDate": "2025-09-15T23:59:59Z",
+    "visibility": "private",
+    "participants": [
+      "64a1b2c3d4e5f6789abcdef4",
+      "64a1b2c3d4e5f6789abcdef6",
+      "64a1b2c3d4e5f6789abcdef7"
+    ],
+    "createdAt": "2025-06-08T14:20:00Z",
+    "updatedAt": "2025-07-22T10:15:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdefe",
+    "creatorId": "64a1b2c3d4e5f6789abcdef5",
+    "title": "Dance Fitness Fiesta",
+    "description": "Dance your way to fitness! 30 minutes of energetic dancing daily. All styles welcome!",
+    "category": "dance",
+    "goalType": "minutes",
+    "goalValue": 30,
+    "startDate": "2025-08-05T00:00:00Z",
+    "endDate": "2025-08-25T23:59:59Z",
+    "visibility": "public",
+    "participants": [
+      "64a1b2c3d4e5f6789abcdef1",
+      "64a1b2c3d4e5f6789abcdef5",
+      "64a1b2c3d4e5f6789abcdef8",
+      "64a1b2c3d4e5f6789abcdefa"
+    ],
+    "createdAt": "2025-07-18T15:30:00Z",
+    "updatedAt": "2025-07-24T11:45:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdeff",
+    "creatorId": "64a1b2c3d4e5f6789abcdef7",
+    "title": "Mountain Hiking Expedition",
+    "description": "Conquer elevation! Hike trails with 500m+ elevation gain weekly. Adventure awaits!",
+    "category": "hiking",
+    "goalType": "elevation",
+    "goalValue": 500,
+    "startDate": "2025-07-01T00:00:00Z",
+    "endDate": "2025-09-30T23:59:59Z",
+    "visibility": "public",
+    "participants": [
+      "64a1b2c3d4e5f6789abcdef6",
+      "64a1b2c3d4e5f6789abcdef7",
+      "64a1b2c3d4e5f6789abcdef9"
+    ],
+    "createdAt": "2025-06-20T08:45:00Z",
+    "updatedAt": "2025-07-23T17:20:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdf00",
+    "creatorId": "64a1b2c3d4e5f6789abcdef8",
+    "title": "HIIT Intensity Challenge",
+    "description": "High-intensity interval training for 25 minutes, 4 times per week. Maximum results, minimum time!",
+    "category": "hiit",
+    "goalType": "sessions",
+    "goalValue": 4,
+    "startDate": "2025-07-22T00:00:00Z",
+    "endDate": "2025-08-18T23:59:59Z",
+    "visibility": "public",
+    "participants": [
+      "64a1b2c3d4e5f6789abcdef2",
+      "64a1b2c3d4e5f6789abcdef3",
+      "64a1b2c3d4e5f6789abcdef8"
+    ],
+    "createdAt": "2025-07-15T12:10:00Z",
+    "updatedAt": "2025-07-24T08:30:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdf01",
+    "creatorId": "64a1b2c3d4e5f6789abcdefa",
+    "title": "Photography Walk Challenge",
+    "description": "Combine fitness with creativity! Walk 8,000 steps while capturing beautiful moments. Share your shots!",
+    "category": "walking",
+    "goalType": "steps",
+    "goalValue": 8000,
+    "startDate": "2025-08-01T00:00:00Z",
+    "endDate": "2025-08-14T23:59:59Z",
+    "visibility": "private",
+    "participants": [
+      "64a1b2c3d4e5f6789abcdef4",
+      "64a1b2c3d4e5f6789abcdef7",
+      "64a1b2c3d4e5f6789abcdefa"
+    ],
+    "createdAt": "2025-07-20T16:55:00Z",
+    "updatedAt": "2025-07-24T13:25:00Z"
+  }
+]

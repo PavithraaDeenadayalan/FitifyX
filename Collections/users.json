@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef1",
+    "username": "techsarah",
+    "email": "sarah.wilson@gmail.com",
+    "passwordHash": "$2b$10$M8po7vKNickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWz",
+    "profilePicURL": "https://example.com/profiles/sarah.jpg",
+    "joinedAt": "2025-05-20T14:22:00Z",
+    "isVerified": true,
+    "role": "user"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef2",
+    "username": "mikerunner",
+    "email": "mike.rodriguez@yahoo.com",
+    "passwordHash": "$2b$10$L7no6tJMickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWa",
+    "profilePicURL": "https://example.com/profiles/mike.jpg",
+    "joinedAt": "2025-07-02T09:15:00Z",
+    "isVerified": false,
+    "role": "user"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef3",
+    "username": "emilychef",
+    "email": "emily.chen@hotmail.com",
+    "passwordHash": "$2b$10$K6mn5sILickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWb",
+    "profilePicURL": "https://example.com/profiles/emily.jpg",
+    "joinedAt": "2025-04-18T11:45:00Z",
+    "isVerified": true,
+    "role": "moderator"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef4",
+    "username": "davidgamer",
+    "email": "david.johnson@outlook.com",
+    "passwordHash": "$2b$10$J5lm4rHKickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWc",
+    "profilePicURL": "https://example.com/profiles/david.jpg",
+    "joinedAt": "2025-06-30T16:20:00Z",
+    "isVerified": true,
+    "role": "user"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef5",
+    "username": "lisaartist",
+    "email": "lisa.thompson@gmail.com",
+    "passwordHash": "$2b$10$I4kl3qGJickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWd",
+    "profilePicURL": "https://example.com/profiles/lisa.jpg",
+    "joinedAt": "2025-03-12T07:33:00Z",
+    "isVerified": false,
+    "role": "user"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef6",
+    "username": "alexcoder",
+    "email": "alex.martinez@protonmail.com",
+    "passwordHash": "$2b$10$H3jk2pFIickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWe",
+    "profilePicURL": "https://example.com/profiles/alex.jpg",
+    "joinedAt": "2025-07-10T12:08:00Z",
+    "isVerified": true,
+    "role": "admin"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef7",
+    "username": "racheltravel",
+    "email": "rachel.brown@icloud.com",
+    "passwordHash": "$2b$10$G2ij1oEHickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWf",
+    "profilePicURL": "https://example.com/profiles/rachel.jpg",
+    "joinedAt": "2025-05-05T19:55:00Z",
+    "isVerified": true,
+    "role": "user"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef8",
+    "username": "tommusic",
+    "email": "tom.davis@gmail.com",
+    "passwordHash": "$2b$10$F1hi0nDGickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWg",
+    "profilePicURL": "https://example.com/profiles/tom.jpg",
+    "joinedAt": "2025-06-08T13:42:00Z",
+    "isVerified": false,
+    "role": "user"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef9",
+    "username": "jessicayoga",
+    "email": "jessica.garcia@yahoo.com",
+    "passwordHash": "$2b$10$E0gh9mCFickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWh",
+    "profilePicURL": "https://example.com/profiles/jessica.jpg",
+    "joinedAt": "2025-04-25T10:17:00Z",
+    "isVerified": true,
+    "role": "user"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdefa",
+    "username": "kevinphoto",
+    "email": "kevin.white@outlook.com",
+    "passwordHash": "$2b$10$D9fg8lBEickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWi",
+    "profilePicURL": "https://example.com/profiles/kevin.jpg",
+    "joinedAt": "2025-07-15T15:29:00Z",
+    "isVerified": false,
+    "role": "user"
+  }
+]

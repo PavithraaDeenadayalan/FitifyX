@@ -1,0 +1,507 @@
+[
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef1",
+    "challengeId": "64a1b2c3d4e5f6789abcdef8",
+    "rankings": [
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef1",
+        "score": 285000,
+        "rank": 1
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef0",
+        "score": 267800,
+        "rank": 2
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef4",
+        "score": 234500,
+        "rank": 3
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef7",
+        "score": 198750,
+        "rank": 4
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef2",
+        "score": 176200,
+        "rank": 5
+      }
+    ],
+    "updatedAt": "2025-07-22T23:59:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef2",
+    "challengeId": "64a1b2c3d4e5f6789abcdef9",
+    "rankings": [
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef3",
+        "score": 342100,
+        "rank": 1
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef5",
+        "score": 318900,
+        "rank": 2
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef1",
+        "score": 287400,
+        "rank": 3
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef8",
+        "score": 245600,
+        "rank": 4
+      }
+    ],
+    "updatedAt": "2025-07-23T14:30:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef3",
+    "challengeId": "64a1b2c3d4e5f6789abcdefa",
+    "rankings": [
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef6",
+        "score": 456780,
+        "rank": 1
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef2",
+        "score": 423150,
+        "rank": 2
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef9",
+        "score": 398200,
+        "rank": 3
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef4",
+        "score": 367890,
+        "rank": 4
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef0",
+        "score": 334500,
+        "rank": 5
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef7",
+        "score": 312670,
+        "rank": 6
+      }
+    ],
+    "updatedAt": "2025-07-23T08:45:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef4",
+    "challengeId": "64a1b2c3d4e5f6789abcdefb",
+    "rankings": [
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef8",
+        "score": 189400,
+        "rank": 1
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef3",
+        "score": 167800,
+        "rank": 2
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef5",
+        "score": 145600,
+        "rank": 3
+      }
+    ],
+    "updatedAt": "2025-07-23T16:20:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef5",
+    "challengeId": "64a1b2c3d4e5f6789abcdefc",
+    "rankings": [
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef4",
+        "score": 523800,
+        "rank": 1
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef1",
+        "score": 498700,
+        "rank": 2
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef6",
+        "score": 467200,
+        "rank": 3
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef9",
+        "score": 434500,
+        "rank": 4
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef2",
+        "score": 412300,
+        "rank": 5
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef7",
+        "score": 389600,
+        "rank": 6
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef0",
+        "score": 356700,
+        "rank": 7
+      }
+    ],
+    "updatedAt": "2025-07-23T11:15:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef6",
+    "challengeId": "64a1b2c3d4e5f6789abcdefd",
+    "rankings": [
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef0",
+        "score": 298500,
+        "rank": 1
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef3",
+        "score": 276400,
+        "rank": 2
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef8",
+        "score": 254300,
+        "rank": 3
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef5",
+        "score": 231800,
+        "rank": 4
+      }
+    ],
+    "updatedAt": "2025-07-22T19:30:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef7",
+    "challengeId": "64a1b2c3d4e5f6789abcdefe",
+    "rankings": [
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef2",
+        "score": 387650,
+        "rank": 1
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef7",
+        "score": 356890,
+        "rank": 2
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef1",
+        "score": 334500,
+        "rank": 3
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef6",
+        "score": 312400,
+        "rank": 4
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef4",
+        "score": 289700,
+        "rank": 5
+      }
+    ],
+    "updatedAt": "2025-07-24T09:45:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef8",
+    "challengeId": "64a1b2c3d4e5f6789abcdeff",
+    "rankings": [
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef9",
+        "score": 612300,
+        "rank": 1
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef5",
+        "score": 587400,
+        "rank": 2
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef0",
+        "score": 556700,
+        "rank": 3
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef3",
+        "score": 523800,
+        "rank": 4
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef8",
+        "score": 498200,
+        "rank": 5
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef1",
+        "score": 467500,
+        "rank": 6
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef2",
+        "score": 434600,
+        "rank": 7
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef6",
+        "score": 412300,
+        "rank": 8
+      }
+    ],
+    "updatedAt": "2025-07-24T15:00:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdef9",
+    "challengeId": "64a1b2c3d4e5f6789abcde10",
+    "rankings": [
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef7",
+        "score": 245600,
+        "rank": 1
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef4",
+        "score": 223400,
+        "rank": 2
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef0",
+        "score": 198700,
+        "rank": 3
+      }
+    ],
+    "updatedAt": "2025-07-23T21:10:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdefa",
+    "challengeId": "64a1b2c3d4e5f6789abcde11",
+    "rankings": [
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef6",
+        "score": 456700,
+        "rank": 1
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef8",
+        "score": 423500,
+        "rank": 2
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef3",
+        "score": 398400,
+        "rank": 3
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef1",
+        "score": 367800,
+        "rank": 4
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef9",
+        "score": 334200,
+        "rank": 5
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef5",
+        "score": 312600,
+        "rank": 6
+      }
+    ],
+    "updatedAt": "2025-07-24T12:30:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdefb",
+    "challengeId": "64a1b2c3d4e5f6789abcde12",
+    "rankings": [
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef2",
+        "score": 187500,
+        "rank": 1
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef7",
+        "score": 165300,
+        "rank": 2
+      }
+    ],
+    "updatedAt": "2025-07-24T07:20:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdefc",
+    "challengeId": "64a1b2c3d4e5f6789abcde13",
+    "rankings": [
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef0",
+        "score": 723400,
+        "rank": 1
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef4",
+        "score": 698700,
+        "rank": 2
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef6",
+        "score": 667200,
+        "rank": 3
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef1",
+        "score": 634500,
+        "rank": 4
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef8",
+        "score": 612300,
+        "rank": 5
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef3",
+        "score": 589600,
+        "rank": 6
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef9",
+        "score": 556700,
+        "rank": 7
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef2",
+        "score": 523800,
+        "rank": 8
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef5",
+        "score": 498200,
+        "rank": 9
+      }
+    ],
+    "updatedAt": "2025-07-24T18:45:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdefd",
+    "challengeId": "64a1b2c3d4e5f6789abcde14",
+    "rankings": [
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef5",
+        "score": 334800,
+        "rank": 1
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef2",
+        "score": 312400,
+        "rank": 2
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef9",
+        "score": 289700,
+        "rank": 3
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef7",
+        "score": 267300,
+        "rank": 4
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef1",
+        "score": 245600,
+        "rank": 5
+      }
+    ],
+    "updatedAt": "2025-07-23T13:15:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdefe",
+    "challengeId": "64a1b2c3d4e5f6789abcde15",
+    "rankings": [
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef8",
+        "score": 412500,
+        "rank": 1
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef0",
+        "score": 389600,
+        "rank": 2
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef4",
+        "score": 367800,
+        "rank": 3
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef6",
+        "score": 334500,
+        "rank": 4
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef3",
+        "score": 312400,
+        "rank": 5
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef7",
+        "score": 289700,
+        "rank": 6
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef2",
+        "score": 267300,
+        "rank": 7
+      }
+    ],
+    "updatedAt": "2025-07-24T20:00:00Z"
+  },
+  {
+    "_id": "64a1b2c3d4e5f6789abcdeff",
+    "challengeId": "64a1b2c3d4e5f6789abcde16",
+    "rankings": [
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef1",
+        "score": 567800,
+        "rank": 1
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef9",
+        "score": 534200,
+        "rank": 2
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef5",
+        "score": 498700,
+        "rank": 3
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef3",
+        "score": 467300,
+        "rank": 4
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef0",
+        "score": 434600,
+        "rank": 5
+      },
+      {
+        "userId": "64a1b2c3d4e5f6789abcdef6",
+        "score": 412300,
+        "rank": 6
+      }
+    ],
+    "updatedAt": "2025-07-24T22:30:00Z"
+  }
+]
